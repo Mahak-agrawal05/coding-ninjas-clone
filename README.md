@@ -1,51 +1,70 @@
 # Coding Ninjas Inspired Landing Page
 
-A responsive landing page inspired by the Coding Ninjas website, built using **React**, **Vite**, and **Tailwind CSS**.
+A responsive landing page inspired by the Coding Ninjas website, built using **React**, **Vite**, and **Tailwind CSS**. The project focuses on creating a modern, component-based UI with reusable React components and a responsive design.
 
 ## 🚀 Live Demo
 
-https://your-vercel-link.vercel.app
+https://coding-ninjas-clone-teal.vercel.app/
+
+## 📂 GitHub Repository
+
+https://github.com/Mahak-agrawal05/coding-ninjas-clone
+
+---
 
 ## 📸 Preview
 
-(Add a screenshot here after deployment)
+> Add a screenshot of your homepage here after deployment.
+
+Example:
+
+```md
+![Project Preview](./preview.png)
+```
 
 ---
 
 ## ✨ Features
 
-- Responsive UI
-- Reusable React Components
-- Modern Landing Page Design
-- Interactive Cards
-- Hover Effects
-- Comparison Section
-- Testimonials
+- Responsive landing page
+- Modern UI inspired by Coding Ninjas
+- Component-based architecture
+- Reusable React components
+- Responsive Navbar
+- Hero Section
+- Course Offerings
+- Statistics Section
+- Why Choose Us Section
+- Comparison (Advantage) Section
+- Success Stories
 - Spotlight Section
 - Certificate Section
-- Footer with Social Links
+- Footer with useful links and social icons
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - React
 - Vite
 - Tailwind CSS
-- React Icons
+- JavaScript (ES6+)
 - Lucide React
+- React Icons
 
 ---
 
-## 📂 Folder Structure
+## 📁 Project Structure
 
 ```
 src
 │
 ├── assets
+│
 ├── components
 │   ├── Navbar
 │   ├── Hero
+│   ├── VideoSection
 │   ├── Offerings
 │   ├── Stats
 │   ├── WhyUs
@@ -57,7 +76,10 @@ src
 │   └── Footer
 │
 ├── pages
-└── App.jsx
+│   └── Home.jsx
+│
+├── App.jsx
+└── main.jsx
 ```
 
 ---
@@ -70,29 +92,62 @@ Clone the repository
 git clone https://github.com/Mahak-agrawal05/coding-ninjas-clone.git
 ```
 
+Move into the project folder
+
+```bash
+cd coding-ninjas-clone
+```
+
 Install dependencies
 
 ```bash
 npm install
 ```
 
-Run the project
+Start the development server
 
 ```bash
 npm run dev
 ```
 
-Build for production
+Create a production build
 
 ```bash
 npm run build
 ```
 
+Preview the production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+During this project, I practiced:
+
+- React Component Architecture
+- Props & Component Reusability
+- Tailwind CSS
+- Responsive Web Design
+- Git & GitHub Workflow
+- Vite Project Structure
+- UI Development from a Design Reference
+
 ---
 
 ## 📌 Project Purpose
 
-This project was created to practice modern frontend development by recreating a professional educational landing page using React and Tailwind CSS.
+This project was created as a frontend practice assignment to strengthen React development skills by recreating a professional educational platform landing page.
+
+The focus was on:
+
+- Building reusable components
+- Writing clean and maintainable code
+- Creating responsive layouts
+- Practicing modern frontend development workflows
 
 ---
 
@@ -100,5 +155,14 @@ This project was created to practice modern frontend development by recreating a
 
 **Mahak Agrawal**
 
-GitHub:
+GitHub:  
 https://github.com/Mahak-agrawal05
+
+LinkedIn:  
+*Add your LinkedIn profile link here*
+
+---
+
+## 📄 License
+
+This project is created for learning and portfolio purposes only. It is not affiliated with or endorsed by Coding Ninjas.
