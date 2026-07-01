@@ -9,7 +9,6 @@ export const categories = [
 export const stories = [
   {
     id: 1,
-    image: "/images/student1.png",
     name: "Twisam",
     role: "Full Stack Developer",
     story:
@@ -20,7 +19,6 @@ export const stories = [
 
   {
     id: 2,
-    image: "/images/student2.png",
     name: "Onkar Lapate",
     role: "SDE-1",
     story:
@@ -31,7 +29,6 @@ export const stories = [
 
   {
     id: 3,
-    image: "/images/student3.png",
     name: "Durgesh Chaubey",
     role: "SDE-1",
     story:
